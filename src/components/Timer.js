@@ -27,21 +27,21 @@ const Timer = () => {
     })
     
     return (
-        <div class="countdown">
-                <div class="container-day">
-                    <h3 class="day">{day}</h3>
+        <div className="countdown">
+                <div className="container-day">
+                    <h3 className="day">{day}</h3>
                     <h3>Day</h3>
                 </div>
-                <div class="container-hour">
-                    <h3 class="hour">{hour}</h3>
+                <div className="container-hour">
+                    <h3 className="hour">{hour}</h3>
                     <h3>Hour</h3>
                 </div>
-                <div class="container-minute">
-                    <h3 class="minute">{minute}</h3>
+                <div className="container-minute">
+                    <h3 className="minute">{minute}</h3>
                     <h3>Minute</h3>
                 </div>
-                <div class="container-second">
-                    <h3 class="second">{second}</h3>
+                <div className="container-second">
+                    <h3 className="second">{second}</h3>
                     <h3>Secend</h3>
                 </div>
             </div>

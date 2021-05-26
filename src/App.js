@@ -8,7 +8,7 @@ function App() {
             <h2>We are opening soon!</h2>
             <Time/>
             </div>
-        <img class="waiting" src={Image} alt=""/>
+        <img className="waiting" src={Image} alt=""/>
     </div>
   );
 }
