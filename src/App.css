@@ -32,3 +32,15 @@ h2{
 .waiting{
   height: 50vh;
 }
+.girl{
+  position: absolute;
+  top: 46vh;
+  height: 50vh;
+  left: 360px;
+}
+.boy{
+  position: absolute;
+  top: 43vh;
+  height: 50vh;
+  left: 1070px;
+}
