@@ -14,8 +14,8 @@ function App() {
         <motion.img className="waiting" src={Image} alt="" drag
     dragConstraints={{
       top: 0,
-      left: -1000,
-      right: 1000,
+      left: -100,
+      right: 100,
       bottom: 10,
     }}/>
     </div>
